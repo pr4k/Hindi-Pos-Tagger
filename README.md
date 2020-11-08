@@ -31,8 +31,8 @@ Once the model is trained, the tagger is passed to a seperate function which tak
 ## Team Mates:
 
 - Mohit Khora [kami9coder](https://github.com/kami9coder)
-- Pratiksha Samal
-- Jaswant Reddy
+- Pratiksha Samal [pratxshaaa](https://github.com/pratxkshaaa)
+- Jaswanth Reddy
 - Prakhar Kaushik [pr4k](https://github.com/pr4k)
  
  ## Special Mention
