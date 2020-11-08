@@ -20,7 +20,7 @@ The whole solution is divided into two parts;
 ##### Training of the Pos Tagger
 
 We use `indian` Corpus provided by NLTK, to train our tagger.
-The whole dataset contains 540 records out of which we use **** 90% * dataset i.e 486 records to train and remaining to evaluate the accuracy
+The whole dataset contains 540 records out of which we use *90%* dataset i.e 486 records to train and remaining to evaluate the accuracy
 
 Our Model performs with `81.11 %` accuracy on test dataset.
 
@@ -37,4 +37,4 @@ Once the model is trained, the tagger is passed to a seperate function which tak
  
  ## Special Mention
 
- We would like to thank our professor and mentor ** Mr Rakesh Chandra Balabantaray ** sir for all the guidance and motivation provided throughout the project.
+ We would like to thank our professor and mentor **Mr Rakesh Chandra Balabantaray** sir for all the guidance and motivation provided throughout the project.
