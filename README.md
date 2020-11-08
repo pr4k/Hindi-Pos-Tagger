@@ -30,9 +30,11 @@ Once the model is trained, the tagger is passed to a seperate function which tak
 
 ## Team Mates:
 
-- Mohit Khora 
+- Mohit Khora [kami9coder](https://github.com/kami9coder)
 - Pratiksha Samal
 - Jaswant Reddy
 - Prakhar Kaushik [pr4k](https://github.com/pr4k)
+ 
+ ## Special Mention
 
-
+ We would like to thank our professor and mentor ** Mr Rakesh Chandra Balabantaray ** sir for all the guidance and motivation provided throughout the project.
